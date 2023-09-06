@@ -1,0 +1,14 @@
+C:\Users\shear\OneDrive\Desktop\devCodeCamp\source\repos\Camelopardalis C# Full Stack\git Lab_Algorithms-and-Time-Complexity\bin\Debug\net6.0\Lab_Algorithms and BigONotation.exe
+C:\Users\shear\OneDrive\Desktop\devCodeCamp\source\repos\Camelopardalis C# Full Stack\git Lab_Algorithms-and-Time-Complexity\bin\Debug\net6.0\Lab_Algorithms and BigONotation.deps.json
+C:\Users\shear\OneDrive\Desktop\devCodeCamp\source\repos\Camelopardalis C# Full Stack\git Lab_Algorithms-and-Time-Complexity\bin\Debug\net6.0\Lab_Algorithms and BigONotation.runtimeconfig.json
+C:\Users\shear\OneDrive\Desktop\devCodeCamp\source\repos\Camelopardalis C# Full Stack\git Lab_Algorithms-and-Time-Complexity\bin\Debug\net6.0\Lab_Algorithms and BigONotation.dll
+C:\Users\shear\OneDrive\Desktop\devCodeCamp\source\repos\Camelopardalis C# Full Stack\git Lab_Algorithms-and-Time-Complexity\bin\Debug\net6.0\Lab_Algorithms and BigONotation.pdb
+C:\Users\shear\OneDrive\Desktop\devCodeCamp\source\repos\Camelopardalis C# Full Stack\git Lab_Algorithms-and-Time-Complexity\obj\Debug\net6.0\Lab_Algorithms and BigONotation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shear\OneDrive\Desktop\devCodeCamp\source\repos\Camelopardalis C# Full Stack\git Lab_Algorithms-and-Time-Complexity\obj\Debug\net6.0\Lab_Algorithms and BigONotation.AssemblyInfoInputs.cache
+C:\Users\shear\OneDrive\Desktop\devCodeCamp\source\repos\Camelopardalis C# Full Stack\git Lab_Algorithms-and-Time-Complexity\obj\Debug\net6.0\Lab_Algorithms and BigONotation.AssemblyInfo.cs
+C:\Users\shear\OneDrive\Desktop\devCodeCamp\source\repos\Camelopardalis C# Full Stack\git Lab_Algorithms-and-Time-Complexity\obj\Debug\net6.0\Lab_Algorithms and BigONotation.csproj.CoreCompileInputs.cache
+C:\Users\shear\OneDrive\Desktop\devCodeCamp\source\repos\Camelopardalis C# Full Stack\git Lab_Algorithms-and-Time-Complexity\obj\Debug\net6.0\Lab_Algorithms and BigONotation.dll
+C:\Users\shear\OneDrive\Desktop\devCodeCamp\source\repos\Camelopardalis C# Full Stack\git Lab_Algorithms-and-Time-Complexity\obj\Debug\net6.0\refint\Lab_Algorithms and BigONotation.dll
+C:\Users\shear\OneDrive\Desktop\devCodeCamp\source\repos\Camelopardalis C# Full Stack\git Lab_Algorithms-and-Time-Complexity\obj\Debug\net6.0\Lab_Algorithms and BigONotation.pdb
+C:\Users\shear\OneDrive\Desktop\devCodeCamp\source\repos\Camelopardalis C# Full Stack\git Lab_Algorithms-and-Time-Complexity\obj\Debug\net6.0\Lab_Algorithms and BigONotation.genruntimeconfig.cache
+C:\Users\shear\OneDrive\Desktop\devCodeCamp\source\repos\Camelopardalis C# Full Stack\git Lab_Algorithms-and-Time-Complexity\obj\Debug\net6.0\ref\Lab_Algorithms and BigONotation.dll
