@@ -61,23 +61,52 @@ namespace Lab_Algorithms_and_BigONotation
             return hasMultipleNames;
         }
 
+        //Time Complexity for SortToAscending:  O(n^2)
         public List<int> SortToAscending(List<int> listToSort)
         {
             List<int> ascendingList = new List<int>();
+            ascendingList.AddRange(listToSort);
 
-            for (int i = 0, j = 1; i < listToSort.Count; i++, j++)
+            for (int i = 0; i < listToSort.Count; i++)
             {
-                if (listToSort[i] < listToSort[j])
+                for (int j = i + 1; j < listToSort.Count; j++)
                 {
-                    for (int k = 0; k < listToSort.Count - i; k++)
+                    if (ascendingList[i] > ascendingList[j])
                     {
-                        if (listToSort[i] < listToSort[])
+                        ascendingList[i] = listToSort[j];
+                        ascendingList[j] = listToSort[i];
+                        listToSort[i] = ascendingList[i];
+                        listToSort[j] = ascendingList[j];
+                        //listToSort.AddRange(ascendingList);
+                        
                     }
+
+
                 }
             }
             return ascendingList;
         }
 
 
+                //for (int j = 0; j < listToSort.Count - i; j++)
+                //{
+
+                //    //if (listToSort[i] > listToSort[j])
+                //    //{
+                //    //    ascendingList[i] = listToSort[j];
+                //    //    ascendingList[i + 1] = listToSort[i];
+                        
+                //    //}
+                //    //else if (listToSort[i] < listToSort[j])
+                //    //{
+                //    //    ascendingList[i] = listToSort[i];
+                //    //    ascendingList[i + 1] += listToSort[j + 1];
+                        
+                //    //}
+                //    //else
+                //    //{
+                        
+                //    //}
+                //}
     }
 }

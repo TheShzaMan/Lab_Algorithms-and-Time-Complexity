@@ -67,6 +67,24 @@
             {
                 Console.WriteLine("This list does not have multiple names");
             }
+
+            //Task 4
+            List<int> unsortedList = new List<int>() { 9, 4, 90, -8, 66, 99, 1, 43 };
+            Console.Write($"\nUnsorted list: ");
+            foreach (int item in unsortedList)
+            {
+                Console.Write($"{item} ");
+            }
+            Console.WriteLine("");
+            
+            List<int> sortedList = myAlgos.SortToAscending(unsortedList);
+
+            Console.Write("\nList in ascending order after applying SortToAscending method: ");
+            foreach (int item in sortedList)
+            {
+                Console.Write($"{item} ");
+            }
+            Console.WriteLine("");
         }
     }
 }
